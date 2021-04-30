@@ -1,4 +1,4 @@
-# Hello, folks!<br><img src="https://tenor.com/MEix.gif" height="100px" width="100px"> 
+# Hello, folks! 
 
 <!--
 **sairam11-cy/sairam11-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
