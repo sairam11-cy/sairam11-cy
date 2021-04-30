@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" height="100px" width="100px">
+# Hello, folks!<img src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif" height="100px" width="100px" >
 
 <!--
 **sairam11-cy/sairam11-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
